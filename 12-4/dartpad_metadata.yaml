@@ -1,0 +1,7 @@
+# 名称，随便~
+name: Dart test
+# dartpad引用的模式, 有两个模式，分别是 dart 和 html
+mode: dart
+# 所包含的文件，可以包含上面gist的那些文件。如果是html模式，还需要index.html和style.css
+files:
+  - name: main.dart
